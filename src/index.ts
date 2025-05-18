@@ -1,4 +1,3 @@
-// filepath: h:\Developement\MeldCx\src\index.ts
 import express from "express";
 
 const app = express();
